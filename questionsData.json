@@ -1,0 +1,74 @@
+[
+  {
+    "question": "Rohan is so magnanimous that everyone is always _____ to help him in his project.",
+    "1": "eager",
+    "2": "enthusiastic",
+    "3": "reluctant",
+    "4": "ignorant",
+    "right_answer": "eager"
+  },
+  {
+    "question": " I settled ______ Canada last year.",
+    "1": "at",
+    "2": "in",
+    "3": "off",
+    "4": "on",
+    "right_answer": "in"
+  },
+  {
+    "question": "Her ________ nature will help her realise the object of her desire.",
+    "1": "obdurate",
+    "2": "obstinate",
+    "3": "persevering",
+    "4": "fascinating",
+    "right_answer": "obdurate"
+  },
+  {
+    "question": "________ a country s current account is in deficit, it would imply that its imports of goods and services are higher than its income from exports and remittances from non-residents.",
+    "1": "As",
+    "2": "Given",
+    "3": "Unless",
+    "4": "If",
+    "right_answer": "If"
+  },
+  {
+    "question": "His arguments in the court were so ________ that he shattered the evidence built by the opposition lawyer.",
+    "1": "diagnostic",
+    "2": "voluminous",
+    "3": "penetrative",
+    "4": "worldly",
+    "right_answer": "penetrative"
+  },
+  {
+    "question": "Since my father was an _____________ from India, he brought his Indian culture and traditions to the United States with him.",
+    "1": "emigrant",
+    "2": "immigrant",
+    "3": "native",
+    "4": "citizen",
+    "right_answer": "immigrant"
+  },
+  {
+    "question": "It is time you ________ home",
+    "1": "go",
+    "2": "went",
+    "3": "come",
+    "4": "reach",
+    "right_answer": "went"
+  },
+  {
+    "question": "None of the food was wasted _______",
+    "1": "wasn't",
+    "2": "was it",
+    "3": "weren't",
+    "4": "were it",
+    "right_answer": "was it"
+  },
+  {
+    "question": "He found the jewellery box empty. All the ornaments, jewels, etc were ________",
+    "1": "protected",
+    "2": "seized",
+    "3": "sold",
+    "4": "stolen",
+    "right_answer": "stolen"
+  }
+]
