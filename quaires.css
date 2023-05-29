@@ -1,0 +1,21 @@
+@media (max-width: 600px) {
+  .quiz-container .quiz-heading {
+    display: flex;
+    padding: 10px 15px;
+    border-bottom: 1px solid black;
+  }
+  .quiz-container .quiz-heading .category {
+    font-size: 12px;
+  }
+  .q-numbers {
+    font-size: 12px;
+  }
+  .quiz-container .question-erea {
+    padding: 5px 15px;
+    font-size: 14px;
+    font-weight: 400;
+  }
+  .quiz-container .answers .answer {
+    padding: 15px;
+  }
+}

@@ -43,17 +43,15 @@ jsonReq.onreadystatechange = function () {
       answersErea.style.pointerEvents = "none";
       answersRadio.forEach((answer, i) => {
         if (answer.dataset.set === questionsData[qnum]["right_answer"]) {
-          imgs[i].src = "imgs/true.png";
-          answerslabel[i].style.backgroundColor = "#009635ad";
+          imgs[i].src = "imgs/check.png";
+          answerslabel[i].style.backgroundColor = "#e6fcf5";
         }
         if (answer.checked) {
           if (answer.dataset.set === questionsData[qnum]["right_answer"]) {
             bullets[qnum].classList.add("right");
-            document.getElementById("success").play();
             rightAnswers++;
           } else {
             bullets[qnum].classList.add("wrong");
-            document.getElementById("fail").play();
           }
         }
       });
